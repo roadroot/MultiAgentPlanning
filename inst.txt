@@ -1,0 +1,3 @@
+# execute this
+
+pip install PyQt6
